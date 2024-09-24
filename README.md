@@ -1,2 +1,5 @@
-# git-github
- Curso de Git/GIthub
+# Git/GitHub
+Primeiro repositório do curso de Git e GitHub
+
+Repositório criado durante uma aula ao vivo!!!
+
